@@ -26,7 +26,7 @@ Ensure you have the following installed:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/PhazeAnkit/golden-invention.git
+    git clone https://github.com/PhazeAnkit/Precious-price-tracker
     ```
 
 2. **Navigate into the project directory**:
